@@ -1,3 +1,3 @@
 <?php
-echo 'bangke';
+echo 'bangkedd';
 ?>
