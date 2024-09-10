@@ -1,7 +1,4 @@
 <?php
-<<<<<<< HEAD
-
-=======
 class PersegiPanjang
 {
     public $panjang;
