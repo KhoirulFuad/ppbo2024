@@ -1,3 +1,3 @@
 <?php
-echo "jancok"
+echo "jaringan"
 ?>
